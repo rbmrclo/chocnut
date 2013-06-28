@@ -1,7 +1,7 @@
 Chocnut
 =======
 
-A nutty taste of flexible grid system
+A nutty taste of lightweight grid framework.
 
 <h3> Lets get started </h3>
 
