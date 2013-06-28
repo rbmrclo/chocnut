@@ -1,0 +1,93 @@
+* {
+  font-family: "Monda";
+  font-weight: 400;
+  color: rgba(140, 88, 57, 1);
+}
+
+body {
+  /* background: #8C5839; */
+  background: #592A19;
+  background: linear-gradient(163deg, transparent 0px, transparent 1px, #592a19 1px, #592a19 14px, transparent 14px), linear-gradient(161deg, transparent 0px, #402c21 1px, #592a19 2px, #592a19 15px, transparent 15px), linear-gradient(343deg, transparent 0px, transparent 1px, #592a19 1px, #592a19 14px, transparent 14px), linear-gradient(343deg, transparent 0px, transparent 1px, #592a19 1px, #592a19 14px, transparent 14px);
+  background-color: #402C21;
+  background-position: 2px 1px, 23px 16px,48px 15px, 21px 30px;
+  background-size: 48px 30px;
+}
+
+h1 {
+  text-align: center;
+  font: 5em "Monda";
+  color: #F2F0EB;
+  font-weight: 100;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  margin: 5px;
+}
+
+p {
+  text-align: center;
+  font: 1em "Monda";
+  color: rgba(140, 88, 57, 1);
+  font-weight: 500;
+  letter-spacing: 3px;
+  padding-bottom: 20px;
+  margin-top: -20px;
+}
+
+footer > p {
+  margin-top: 40px;
+  padding-bottom: 100px;
+  letter-spacing: 0;
+}
+
+.choco-wrap {
+  width: 95%;
+  margin: 0px auto;
+}
+
+.logo img {
+  margin-top: 50px;
+  max-height: 100px;
+}
+
+.box {
+  text-align: center;
+  font: 1em "Monda";
+  background: rgba(140, 88, 57, 0.8);
+  color: whitesmoke;
+  padding: 10px 0px 10px 0px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: background .2s;
+  -moz-transition: background .2s;
+  -ms-transition: background .2s;
+  -o-transition: background .2s;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+a:visited {
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+a:hover {
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  color: rgba(191, 138, 107, 1);
+}
