@@ -9,18 +9,18 @@ A nutty taste of flexible grid system
 Link it up!
 
 ```
-<link rel="stylesheet" type="text/css" href="stylesheets/chocnut.scss">
-<link rel="stylesheet" type="text/css" href="stylesheets/styles.scss">
-<link rel="stylesheet" type="text/css" href="stylesheets/responsive.scss">
+<link rel="stylesheet" type="text/css" href="css/chocnut.css">
+<link rel="stylesheet" type="text/css" href="css/styles.css">
+<link rel="stylesheet" type="text/css" href="css/responsive.css">
 ```
 
 Let me run you through these sheets:
 
-chocnut.scss is the main grid
+chocnut.css is the main grid
 <br/>
-styles.scss is your styles on top of your grid
+styles.css is your styles on top of your grid
 <br/>
-responsive.scss is for mobile & tablet
+responsive.css is for mobile & tablet
 
 <h3> Structure </h3>
 
@@ -39,5 +39,7 @@ That's it.
 MIT License
 <br/>
 Author: [@rbmrclo]
+Credits to: [@olegdeleon] for the logo
 
+[@olegdeleon]: http://www.twitter.com/olegdeleon
 [@rbmrclo]: http://www.twitter.com/rbmrclo
