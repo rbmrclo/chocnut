@@ -39,6 +39,7 @@ That's it.
 MIT License
 <br/>
 Author: [@rbmrclo]
+<br/>
 Credits to: [@olegdeleon] for the logo
 
 [@olegdeleon]: http://www.twitter.com/olegdeleon
