@@ -14,13 +14,11 @@ Link it up!
 <link rel="stylesheet" type="text/css" href="css/responsive.css">
 ```
 
-Let me run you through these sheets:
-
-chocnut.css is the main grid
+chocnut.css for the main grid
 <br/>
-styles.css is your styles on top of your grid
+styles.css for your styles on top of your grid
 <br/>
-responsive.css is for mobile & tablet
+responsive.css for mobile & tablet
 
 <h3> Structure </h3>
 
